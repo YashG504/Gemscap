@@ -1,0 +1,14 @@
+{
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "BNBUSDT",
+    "SOLUSDT",
+    "ADAUSDT",
+    "XRPUSDT"
+  ],
+  "pairs": [
+    ["BTCUSDT", "ETHUSDT"],
+    ["ETHUSDT", "BNBUSDT"]
+  ]
+}
